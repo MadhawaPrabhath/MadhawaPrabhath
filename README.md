@@ -1,6 +1,6 @@
 # Madhawa Gunarathne
 
-**Software Engineer · Full-Stack Developer · Data Analyst**
+**Full-Stack Development | AI Automation | Data Analyze**
 
 Computer Science & Statistics graduate from the University of Peradeniya, based in Sri Lanka. I build scalable full-stack web applications, automate workflows with n8n and AI, and turn data into clear, interactive insights.
 
